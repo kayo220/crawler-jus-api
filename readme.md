@@ -12,7 +12,7 @@ Sites para busca:
         - 1º grau - https://esaj.tjce.jus.br/cpopg/open.do
         - 2º grau - https://esaj.tjce.jus.br/cposg5/open.do
 
-API hospedada na AWS através do EC2: [52.55.52.3](http://54.233.75.213/)
+API hospedada na AWS através do EC2 (desativada em 19/09/2023 - AWS free tier): [52.55.52.3](http://54.233.75.213/)
 
 # Passo a passo (com docker):
 - docker-compose up (no diretório raiz do projeto)
